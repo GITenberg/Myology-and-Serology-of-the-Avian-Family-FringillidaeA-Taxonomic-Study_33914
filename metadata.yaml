@@ -1,0 +1,28 @@
+_repo: Myology-and-Serology-of-the-Avian-Family-FringillidaeA-Taxonomic-Study_33914
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stallcup, William B.
+    gutenberg_agent_id: '36770'
+    url: http://www.gutenberg.org/2009/agents/36770
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Birds
+- Animal
+gutenberg_issued: '2010-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33914'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finches'
+- !lcsh 'Birds'
+- !lcc 'QH'
+title: 'Myology and Serology of the Avian Family Fringillidae: A Taxonomic Study'
+url: http://www.gutenberg.org/ebooks/33914
