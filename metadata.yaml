@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36770'
     url: http://www.gutenberg.org/2009/agents/36770
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33914#Myology-and-Serology-of-the-Avian-Family-FringillidaeA-Taxonomic-Study
 gutenberg_bookshelf:
 - Animals-Wild-Birds
 - Animal
